@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pr-scilla.github.io",
+    "title": "Priscilla Pierce",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Priscilla is a graduate student in the Master of Environmental Data Science (MEDS) program at the University of Santa Barbara Bren School of Environmental Science and Management. In her professional life, she has supported freshwater research ecology projects, assisted with city water conservation programs, analyzed groundwater extractions in critically overdrafted basins, and overseen invasive agricultural pest quarantine projects for the state of California. Priscilla hopes to apply the skills she learns in the MEDS program to translate complex environmental data into accessible formats to help support responsible water resources management and drought resilience projects in California communities."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All my favorite resources",
+    "section": "",
+    "text": "All my favorite resources"
   }
 ]
